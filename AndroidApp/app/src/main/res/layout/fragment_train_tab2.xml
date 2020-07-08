@@ -1,0 +1,163 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:scrollbars="vertical"
+        >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="Arial"
+                android:text="@string/Choose_programm"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:textSize="18dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:text="Начинающий"
+                android:fontFamily="Arial"
+                android:textColor="@android:color/black"
+                android:textSize="18dp" />
+
+            <HorizontalScrollView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:scrollbars="horizontal">
+
+                <LinearLayout
+                    android:id="@+id/linear_layout1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/start_speed_btn"
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:src="@drawable/start_speed1" />
+
+                    <ImageButton
+                        android:id="@+id/start_endurance_btn"
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:src="@drawable/start_endurance" />
+
+                </LinearLayout>
+
+            </HorizontalScrollView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:text="Любитель"
+                android:fontFamily="Arial"
+                android:textColor="@android:color/black"
+                android:textSize="18dp" />
+
+            <HorizontalScrollView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:scrollbars="horizontal">
+
+                <LinearLayout
+                    android:id="@+id/linear_layout2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/middle_speed_btn"
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:src="@drawable/middle_speed"/>
+
+                    <ImageButton
+                        android:id="@+id/middle_endurance_btn"
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:src="@drawable/middle_endurance" />
+
+                </LinearLayout>
+
+            </HorizontalScrollView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:text="Профессионал"
+                android:fontFamily="Arial"
+                android:textColor="@android:color/black"
+                android:textSize="18dp" />
+
+            <HorizontalScrollView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:scrollbars="horizontal">
+
+                <LinearLayout
+                    android:id="@+id/linear_layout3"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/pro_speed_btn"
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:src="@drawable/pro_speed" />
+
+                    <ImageButton
+                        android:id="@+id/pro_endurance_btn"
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:src="@drawable/pro_endurance" />
+
+                </LinearLayout>
+
+            </HorizontalScrollView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:text="Настроить программу"
+                android:fontFamily="Arial"
+                android:textColor="@android:color/black"
+                android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/train_constr_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="200dp"
+                android:text="Конструктор тренировок"
+                android:textSize="22dp"
+                android:textColor="@color/colorWhite"
+                android:fontFamily="Arial"
+                android:background="@drawable/constructor"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</RelativeLayout>

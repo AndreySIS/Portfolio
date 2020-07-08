@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="start_speed_week1_day1">
+        <item>Тренировка на скорость</item>
+        <item>На этой тренировке приложите максимум усилий для достижения наилучшего времени. Не забудьте записать свои лучшие результаты в историю тренировок</item>
+        <item>План тренировки</item>
+        <item>Бег 3х30м</item>
+        <item>Бег 3х60м</item>
+    </string-array>
+
+    <string-array name="start_speed_week1_day3">
+        <item>Силовая тренировка на ноги</item>
+        <item>На этой тренировке полностью восстанавливайтесь между подходами, чтобы тренировкать максимальную силу</item>
+        <item>План тренировки</item>
+        <item>Прыжки из полуприседа 3x10 раз</item>
+        <item>Прыжки из выпада со сменой ног 3x10 раз</item>
+        <item>Прыжки на скакалке 3x10 раз</item>
+        <item>Выпады 2x10м</item>
+    </string-array>
+
+    <string-array name="start_speed_week1_day5">
+        <item>Восстановление</item>
+        <item>На этой тренировке пробегите легким темпом указанное количество км. или мин.</item>
+        <item>План тренировки</item>
+        <item>Бег 10 мин.</item>
+    </string-array>
+
+    <string-array name="start_speed_week2_day1">
+        <item>Тренировка на скорость и силу ног</item>
+        <item>На этой тренировке приложите максимум усилий для достижения наилучшего времени. Не забудьте записать свои лучшие результаты в историю тренировок</item>
+        <item>План тренировки</item>
+        <item>Бег 5х60м</item>
+        <item>Выпады 2x10м</item>
+    </string-array>
+
+    <string-array name="start_speed_week2_day3">
+        <item>Беговая тренировка спринтера</item>
+        <item>На этой тренировке пробегите спринтерские дистанции без секундомера</item>
+        <item>План тренировки</item>
+        <item>Бег 5х100м</item>
+    </string-array>
+
+    <string-array name="start_speed_week2_day5">
+        <item>Тренировка на все группы мышц</item>
+        <item>На этой тренировке вы тренируете все тело</item>
+        <item>План тренировки</item>
+        <item>Выпады назад 3x10 раз</item>
+        <item>Приседания без веса 3x10 раз</item>
+        <item>Отжимания 3x10 раз</item>
+        <item>Подтягивания 10 раз</item>
+        <item>Планка 30 сек</item>
+    </string-array>
+
+    <string-array name="start_speed_week3_day1">
+        <item>Тренировка на скорость</item>
+        <item>На этой тренировке приложите максимум усилий для достижения наилучшего времени. Не забудьте записать свои лучшие результаты в историю тренировок</item>
+        <item>План тренировки</item>
+        <item>Бег 3х100м</item>
+    </string-array>
+
+    <string-array name="start_speed_week3_day3">
+        <item>Силовая тренировка на ноги</item>
+        <item>На этой тренировке полностью восстанавливайтесь между подходами, чтобы тренировкать максимальную силу</item>
+        <item>План тренировки</item>
+        <item>Прыжки с продвижением вперед 2x10 раз</item>
+        <item>Прыжки на возвышенность 10 раз</item>
+        <item>Прыжок с места в длину 5 раз</item>
+        <item>Приседание на правой ноге с опорой 5 раз</item>
+        <item>Приседание на левой ноге с опорой 5 раз</item>
+        <item>Выпады 2x10м</item>
+    </string-array>
+
+    <string-array name="start_speed_week3_day5">
+        <item>Восстановление</item>
+        <item>На этой тренировке пробегите легким темпом указанное количество км. или мин.</item>
+        <item>План тренировки</item>
+        <item>Бег 15 мин</item>
+    </string-array>
+
+    <string-array name="start_speed_week4_day1">
+        <item>Беговая тренировка спринтера</item>
+        <item>На этой тренировке пробегите спринтерские дистанции без секундомера</item>
+        <item>План тренировки</item>
+        <item>Бег 60м</item>
+        <item>Бег 80м</item>
+        <item>Бег 100м</item>
+        <item>Бег 80м</item>
+        <item>Бег 60м</item>
+        <item>Прыжки с ноги на ногу 3х30м</item>
+    </string-array>
+
+    <string-array name="start_speed_week4_day3">
+        <item>Восстановление</item>
+        <item>На этой тренировке пробегите легким темпом указанное количество км. или мин.</item>
+        <item>План тренировки</item>
+        <item>Бег 2км</item>
+    </string-array>
+
+    <string-array name="start_speed_week4_day5">
+        <item>Тренировка на скорость</item>
+        <item>На этой тренировке приложите максимум усилий для достижения наилучшего времени. Не забудьте записать свои лучшие результаты в историю тренировок</item>
+        <item>План тренировки</item>
+        <item>Бег 3х30м</item>
+        <item>Бег 3х60м</item>
+    </string-array>
+
+    <string-array name="start_endurance_week1_day1">
+        <item>Тренировка на скоростную выносливость</item>
+        <item>На этой тренировки пробегите стайерские дистанции с отдыхом 6-8мин между отрезками</item>
+        <item>План тренировки</item>
+        <item>Бег 6х200м</item>
+        <item>Упражнения на растяжку</item>
+    </string-array>
+
+    <string-array name="start_endurance_week1_day3">
+        <item>Кросс</item>
+        <item>На этой тренировки пробегите длинную дистанцию в среднем темпе. Не забудьте записать результат в историю тренировок</item>
+        <item>План тренировки</item>
+        <item>Бег 4км</item>
+    </string-array>
+
+    <string-array name="start_endurance_week1_day5">
+        <item>Тренировка на все группы мышц</item>
+        <item>На этой тренировке вы тренируете все тело</item>
+        <item>План тренировки</item>
+        <item>Выпады назад 3x10раз</item>
+        <item>Приседания без веса 3x10раз</item>
+        <item>Отжимания 3x10раз</item>
+        <item>Подтягивания максимальное количество раз</item>
+        <item>Планка 2х30сек</item>
+    </string-array>
+
+    <string-array name="start_endurance_week2_day1">
+        <item>Тренировка на выносливость</item>
+        <item>На этой тренировки пробегите отрезки на время. Не забудьте записать свои лучшие результаты в историю тренировок</item>
+        <item>План тренировки</item>
+        <item>Бег 4х500м</item>
+        <item>Упражнения на растяжку</item>
+    </string-array>
+
+    <string-array name="start_endurance_week2_day3">
+        <item>Прыжковая тренировка</item>
+        <item>На этой тренировки выполните прыжковый комплекс упражнений</item>
+        <item>План тренировки</item>
+        <item>Прыжки с ноги на ногу 5х100м</item>
+        <item>Прыжки на правой ноге с продвижением 3х50м</item>
+        <item>Прыжки на левой ноге с продвижением 3х50м</item>
+        <item>Выпригивания 3x20раз</item>
+    </string-array>
+
+    <string-array name="start_endurance_week2_day5">
+        <item>Кросс</item>
+        <item>На этой тренировки пробегите длинную дистанцию в среднем темпе. Не забудьте записать результат в историю тренировок</item>
+        <item>План тренировки</item>
+        <item>Бег 5км</item>
+    </string-array>
+
+    <string-array name="start_endurance_week3_day1">
+        <item>Тренировка на выносливость</item>
+        <item>На этой тренировки пробегите отрезки на время. Не забудьте записать свои лучшие результаты в историю тренировок</item>
+        <item>План тренировки</item>
+        <item>Бег 5х400м</item>
+        <item>Упражнения на растяжку</item>
+    </string-array>
+
+    <string-array name="start_endurance_week3_day3">
+        <item>Кросс</item>
+        <item>На этой тренировки пробегите длинную дистанцию в медленном темпе. Не забудьте записать результат в историю тренировок</item>
+        <item>План тренировки</item>
+        <item>Бег 10км</item>
+    </string-array>
+
+    <string-array name="start_endurance_week3_day5">
+        <item>Тренировка на все группы мышц</item>
+        <item>На этой тренировке вы тренируете все тело</item>
+        <item>План тренировки</item>
+        <item>Выпады назад 3x30раз</item>
+        <item>Разгибание ног в тренажере(малый вес) 3х30раз</item>
+        <item>Скручивания 3х30раз</item>
+        <item>Подтягивания в гравитроне 3х20раз</item>
+        <item>Планка 2х1мин</item>
+    </string-array>
+
+    <string-array name="start_endurance_week4_day1">
+        <item>Тренировка на все группы мышц</item>
+        <item>На этой тренировке вы тренируете все тело</item>
+        <item>План тренировки</item>
+        <item>Выпригивания 3x20раз</item>
+        <item>Выпрыгивания с гирей(малый вес) 3х20 раз</item>
+        <item>Отжимания 3x20раз</item>
+        <item>Подтягивания 2х(макс количество раз)</item>
+        <item>Планка 2х1мин</item>
+    </string-array>
+
+    <string-array name="start_endurance_week4_day3">
+        <item>Кросс</item>
+        <item>На этой тренировки пробегите длинную дистанцию в среднем темпе. Не забудьте записать результат в историю тренировок</item>
+        <item>План тренировки</item>
+        <item>Бег 10км</item>
+    </string-array>
+
+    <string-array name="start_endurance_week4_day5">
+        <item>Тренировка на выносливость</item>
+        <item>На этой тренировки пробегите отрезки на время. Не забудьте записать свои лучшие результаты в историю тренировок</item>
+        <item>План тренировки</item>
+        <item>Бег 3х500м</item>
+        <item>Упражнения на растяжку</item>
+        <item>Выпады 3x30м</item>
+        <item>Приседания без веса 3x20раз</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,24 @@
+c:\users\andrey\desktop\documents\visual studio 2013\Projects\Course_project\Course_project\bin\Debug\Course_project.exe.config
+c:\users\andrey\desktop\documents\visual studio 2013\Projects\Course_project\Course_project\bin\Debug\Course_project.exe
+c:\users\andrey\desktop\documents\visual studio 2013\Projects\Course_project\Course_project\bin\Debug\Course_project.pdb
+c:\users\andrey\desktop\documents\visual studio 2013\Projects\Course_project\Course_project\obj\Debug\Course_project.exe
+c:\users\andrey\desktop\documents\visual studio 2013\Projects\Course_project\Course_project\obj\Debug\Course_project.pdb
+C:\Users\Andrey\desktop\documents\visual studio 2013\Projects\Course_project\Course_project\obj\Debug\Course_project.csprojResolveAssemblyReference.cache
+G:\Программирование\ТПО\Course_project\Course_project\bin\Debug\Course_project.exe.config
+G:\Программирование\ТПО\Course_project\Course_project\obj\Debug\Course_project.exe
+G:\Программирование\ТПО\Course_project\Course_project\obj\Debug\Course_project.pdb
+F:\Программирование\ТПО\Course_project\Course_project\bin\Debug\Course_project.exe.config
+F:\Программирование\ТПО\Course_project\Course_project\obj\Debug\Course_project.exe
+F:\Программирование\ТПО\Course_project\Course_project\obj\Debug\Course_project.pdb
+F:\Программирование\ТПО\Course_project\Course_project\bin\Debug\Course_project.exe
+F:\Программирование\ТПО\Course_project\Course_project\bin\Debug\Course_project.pdb
+F:\Программирование\ТПО\Course_project\Course_project\obj\Debug\Course_project.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\Course_project\Course_project\bin\Debug\Course_project.exe.config
+C:\Users\Andrey\Desktop\Course_project\Course_project\obj\Debug\Course_project.exe
+C:\Users\Andrey\Desktop\Course_project\Course_project\obj\Debug\Course_project.pdb
+C:\Users\Andrey\Desktop\Course_project\Course_project\bin\Debug\Course_project.exe
+C:\Users\Andrey\Desktop\Course_project\Course_project\bin\Debug\Course_project.pdb
+C:\Users\Andrey\Desktop\Course_project\Course_project\obj\Debug\Course_project.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\Documents\Универ\Программирование\Пройденное\ТПО\Курсовой проект\Course_project\Course_project\bin\Debug\Course_project.exe.config
+C:\Users\Andrey\Desktop\Documents\Универ\Программирование\Пройденное\ТПО\Курсовой проект\Course_project\Course_project\obj\Debug\Course_project.exe
+C:\Users\Andrey\Desktop\Documents\Универ\Программирование\Пройденное\ТПО\Курсовой проект\Course_project\Course_project\obj\Debug\Course_project.pdb

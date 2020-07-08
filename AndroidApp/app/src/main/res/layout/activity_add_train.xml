@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddTrainActivity">
+
+    <EditText
+        android:id="@+id/dist_editText"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:hint="Дистанция (м)"
+        android:textSize="30dp"
+        android:inputType="number"/>
+
+    <EditText
+        android:id="@+id/time_editText"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/dist_editText"
+        android:hint="Время (мин)"
+        android:textSize="30dp"
+        android:clickable="true"
+        android:editable="false" />
+
+    <EditText
+        android:id="@+id/date_editText"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/time_editText"
+        android:hint="Дата"
+        android:textSize="30dp"
+        android:clickable="true"
+        android:editable="false" />
+
+    <Button
+        android:id="@+id/add_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorWhite"
+        android:textSize="18dp"
+        android:fontFamily="Arial"
+        android:text="Добавить пробежку" />
+
+</RelativeLayout>

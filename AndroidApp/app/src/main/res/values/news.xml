@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="News_title_jump_superman">
+        Американский легкоатлет выиграл забег благодаря прыжку супермена на финише
+    </string>
+
+    <string name="News_title_new_sneakers">
+        NIKE ПРЕДСТАВИЛ БЕГОВЫЕ КРОССОВКИ NIKE ZOOMX VAPORFLY NEXT%
+    </string>
+
+    <string name="News_title_motivation">
+        Как мотивировать себя бегать
+    </string>
+
+    <string name="News_title_how_to_run_longer">
+        Как бегать дольше и дальше
+    </string>
+
+
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.runrun">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".TrainConstructorActivity"
+            android:label="@string/title_activity_train_constructor">
+        </activity>
+        <activity
+            android:name=".AboutPlanActivity"
+            android:label="@string/title_activity_about_plan"></activity>
+        <activity
+            android:name=".ChooseTrainActivity"
+            android:label="@string/title_activity_about_plan" />
+        <activity
+            android:name=".AddTrainActivity"
+            android:label="@string/title_activity_add_train" />
+        <activity
+            android:name=".NewsActivity"
+            android:label="Лента" />
+        <activity android:name=".Main2Activity" />
+        <activity
+            android:name=".TrainActivity"
+            android:label="@string/title_activity_train" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".WeekActivity"
+            android:label="@string/title_activity_week" />
+        <activity android:name=".EntryActivity" />
+        <activity
+            android:name=".DayActivity"
+            android:label="@string/title_activity_day" />
+
+        <receiver
+            android:name=".NotificationMessage"
+            android:enabled="true"></receiver>
+    </application>
+
+</manifest>

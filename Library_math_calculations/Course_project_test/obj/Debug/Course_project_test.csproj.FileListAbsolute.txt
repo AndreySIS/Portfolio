@@ -1,0 +1,18 @@
+C:\Users\Andrey\desktop\documents\visual studio 2013\Projects\Course_project\Course_project_test\obj\Debug\Course_project_test.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\desktop\documents\visual studio 2013\Projects\Course_project\Course_project_test\bin\Debug\Course_project_test.dll
+C:\Users\Andrey\desktop\documents\visual studio 2013\Projects\Course_project\Course_project_test\bin\Debug\Course_project_test.pdb
+C:\Users\Andrey\desktop\documents\visual studio 2013\Projects\Course_project\Course_project_test\bin\Debug\Course_project.exe
+C:\Users\Andrey\desktop\documents\visual studio 2013\Projects\Course_project\Course_project_test\bin\Debug\nunit.framework.dll
+C:\Users\Andrey\desktop\documents\visual studio 2013\Projects\Course_project\Course_project_test\bin\Debug\Course_project.pdb
+C:\Users\Andrey\desktop\documents\visual studio 2013\Projects\Course_project\Course_project_test\bin\Debug\nunit.framework.xml
+C:\Users\Andrey\desktop\documents\visual studio 2013\Projects\Course_project\Course_project_test\obj\Debug\Course_project_test.dll
+C:\Users\Andrey\desktop\documents\visual studio 2013\Projects\Course_project\Course_project_test\obj\Debug\Course_project_test.pdb
+C:\Users\Andrey\Desktop\Course_project\Course_project_test\bin\Debug\Course_project_test.dll
+C:\Users\Andrey\Desktop\Course_project\Course_project_test\bin\Debug\Course_project_test.pdb
+C:\Users\Andrey\Desktop\Course_project\Course_project_test\bin\Debug\Course_project.exe
+C:\Users\Andrey\Desktop\Course_project\Course_project_test\bin\Debug\nunit.framework.dll
+C:\Users\Andrey\Desktop\Course_project\Course_project_test\bin\Debug\Course_project.pdb
+C:\Users\Andrey\Desktop\Course_project\Course_project_test\bin\Debug\nunit.framework.xml
+C:\Users\Andrey\Desktop\Course_project\Course_project_test\obj\Debug\Course_project_test.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\Course_project\Course_project_test\obj\Debug\Course_project_test.dll
+C:\Users\Andrey\Desktop\Course_project\Course_project_test\obj\Debug\Course_project_test.pdb
